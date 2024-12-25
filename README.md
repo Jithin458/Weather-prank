@@ -28,5 +28,5 @@ A fun prank desktop app made with Python and Tkinter. It pretends to check the w
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Jithin458/code-anonymous.git
+   git clone https://github.com/Jithin458/code-anonymouse.git
    cd code-anonymouse
