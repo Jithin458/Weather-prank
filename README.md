@@ -1,6 +1,6 @@
 # Weather Prank App 🌤️😂
 
-A fun prank desktop app made with Python and Tkinter. It pretends to check the weather for a location but instead gives the timeless advice: **"Go outside and touch some grass!"** 🌱
+A fun prank desktop app made with Python and Tkinter for a college project. It pretends to check the weather for a location but instead gives the timeless advice: **"Go outside and touch some grass!"** 🌱
 
 ---
 
