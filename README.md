@@ -28,5 +28,5 @@ A fun prank desktop app made with Python and Tkinter for a college project. It p
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Jithin458/code-anonymouse.git
-   cd code-anonymouse
+   git clone https://github.com/Jithin458/Weather-prank.git
+   cd Weather-prank
